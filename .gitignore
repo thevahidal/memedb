@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Local development configuration
+.env
+.env.local
+.env.*.local
+
+# Ignore virtual environment folder
+.venv/
