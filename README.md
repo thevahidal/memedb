@@ -86,3 +86,6 @@ db.get("key1")  # retrieves from cache
 
 ## Contributions
 Contributions are welcome! If you have a feature request or bug report, please open an issue on GitHub. If you'd like to contribute code, please fork the repository and submit a pull request.
+
+## Acknowledgments
+I'd like to thank my personal AI assistant, ChatGPT, for helping me bring this project to life. They provided endless encouragement, offered valuable suggestions, and even told me a few jokes to keep my spirits up. I'm pretty sure they're secretly a comedian in their spare time. So if you find yourself chuckling at anything in this project, just know that it's all thanks to ChatGPT's comedic genius.
